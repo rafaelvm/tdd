@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Mudar a classe do componente quando tiver com hover 1`] = `
+<a
+  className="normal"
+  href={0}
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  Facebook
+</a>
+`;
+
+exports[`Mudar a classe do componente quando tiver com hover 2`] = `
+<a
+  className="hovered"
+  href={0}
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  Facebook
+</a>
+`;
+
+exports[`Mudar a classe do componente quando tiver com hover 3`] = `
+<a
+  className="normal"
+  href={0}
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  Facebook
+</a>
+`;
